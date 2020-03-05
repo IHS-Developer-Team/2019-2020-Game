@@ -6,7 +6,7 @@ Website: https://ihsdevteam.com
 Classes:
 
 Tile
-	Actor
+\tActor
 	Tile Type (properties)
 	Item
 	Position
