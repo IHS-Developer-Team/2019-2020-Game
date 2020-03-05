@@ -2,7 +2,7 @@
 
 Website: https://ihsdevteam.com
 
-
+<t>
 Classes:
 
 Tile
@@ -38,5 +38,5 @@ Display class
 
 Game: turn based.
 
-
+</t>
 	
